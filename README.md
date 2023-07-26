@@ -22,10 +22,12 @@ def max_marks(list1):
         if i>max:
            max=i
     return max
+
 ```
 
 
 ii)	# To find the maximum marks using the list method max().
+
 ```
 #Developed by:Malligesh M 
 #RegisterNumber:23002936
