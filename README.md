@@ -51,9 +51,9 @@ iii) # To find the maximum marks without using builtin functions.
  
 
 ## Output:
-![output](/Screenshot%20(9).png)
-![output](/Screenshot%20(10).png)
-![output](/Screenshot%20(11).png)
+![output](/Screenshot%20(21).png)
+![output](/Screenshot%20(22).png)
+![output](/Screenshot%20(23).png)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
